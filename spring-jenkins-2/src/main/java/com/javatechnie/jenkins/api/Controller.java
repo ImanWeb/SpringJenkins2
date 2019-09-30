@@ -8,7 +8,7 @@ public class Controller {
 	
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello Iman 19 Sep 2019";
+		return "Hello Iman 30 Sep 2019";
 	}
 
 }
